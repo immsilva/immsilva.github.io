@@ -1,0 +1,88 @@
+{
+  "basics": {
+    "name": "Ivo Silva",
+    "email": "ivo@di.uminho.pt",
+    "phone": "+351 253 604 430",
+    "website": "https://immsilva.github.io",
+    "summary": "Professor (Professor Auxiliar) at Department of Informatics, University of Minho. Senior Researcher at ALGORITMI Research Center.",
+    "location": {
+      "address": "Dept. of Informatics, Gualtar Campus, UMinho",
+      "postalCode": "4710-057",
+      "city": "Braga",
+      "countryCode": "PT",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "Google Scholar",
+        "username": "ObnFFfAAAAAJ",
+        "url": "https://scholar.google.com/citations?user=ObnFFfAAAAAJ"
+      },
+      {
+        "network": "ORCID",
+        "username": "0000-0002-5423-0624",
+        "url": "https://orcid.org/0000-0002-5423-0624"
+      },
+      {
+        "network": "Scopus",
+        "username": "55480769100",
+        "url": "https://www.scopus.com/authid/detail.uri?authorId=55480769100"
+      },
+      {
+        "network": "CiênciaVitae",
+        "username": "9D1C-44E3-F20A",
+        "url": "https://www.cienciavitae.pt//en/9D1C-44E3-F20A"
+      }
+    ]
+  },
+  "work": [
+    {
+    "name": "Departamento de Sistemas de Informação - Universidade do Minho",
+    "location": "Braga, Portugal",
+    "description": null,
+    "position": "Invited Professor (Professor Convidado)",
+    "url": "https://www.uminho.pt",
+    "startDate": "2017-09",  
+    "endDate": "2025-09",     
+    "summary": null,
+    "highlights": [
+      null
+    ]
+  }
+  ],
+  "education": [
+    {
+      "institution": "University of Minho, Aveiro, and Porto",
+      "area": "Ph.D in Telecommunications (MAP-tele)",
+      "studyType": "PhD",
+      "startDate": "2018",
+      "endDate": "2022",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "University of Minho",
+      "area": "Integrated Master's in Telecommunications and Informatics Engineering",
+      "studyType": "MSc",
+      "startDate": "2011",
+      "endDate": "2016",
+      "gpa": null,
+      "courses": []
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "publications": [
+  ],
+  "presentations": [
+    
+  ],
+  "teaching": [
+    
+  ],
+  "portfolio": [
+    
+  ]
+}

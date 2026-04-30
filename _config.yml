@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Ivo Silva, PhD"
+title                    : "Ivo Silva"
 title_separator          : "-"
 name                     : &name "Ivo Silva"
 description              : &description "Ivo Silva's Personal Website"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -27,7 +27,7 @@ author:
   name             : "Ivo M. M. Silva"
   pronouns         : # example: "she/her"  
   bio              : "Professor at Informatics Dept., UMinho. Researcher at ALGORITMI Research center. Interested in indoor/outdoor positioning and navigation, mobile computing, industry 4.0."
-  location         : "Barcelos, Portugal"
+  location         : "Braga, Portugal"
   employer         : "University of Minho"
   uri              : # URL
   email            : "ivo@di.uminho.pt" 

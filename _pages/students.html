@@ -1,0 +1,56 @@
+---
+layout: archive
+title: "Students Supervision and Alumni"
+permalink: /students/
+author_profile: true
+---
+
+
+{% for post in site.students reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+<h2>M.Sc.</h1>
+<ul>
+  <li>
+ Ricardo Mateus (UMinho, 2025)
+  </li>
+    <li>
+    <a href="https://hdl.handle.net/1822/96836" target="_blank" rel="noopener noreferrer">José Gomes</a> (UMinho, 2024)
+  </li>
+  <li>
+    <a href="https://hdl.handle.net/1822/99224" target="_blank" rel="noopener noreferrer">André Cabrita (UMinho)</a> (UMinho, 2024)
+  </li>
+</ul>
+
+
+<h2>B.Sc.</h1>
+<ul>
+  <li>
+ João Barros (UTAD, 2025)
+  </li>
+</ul>
+
+<!-- New style rendering if publication categories are defined -->
+<!-- {% if site.publication_category %}
+  {% for category in site.publication_category  %}
+    {% assign title_shown = false %}
+    {% for post in site.publications reversed %}
+      {% if post.category != category[0] %}
+        {% continue %}
+      {% endif %}
+      {% unless title_shown %}
+        <h2>{{ category[1].title }}</h2><hr />
+        {% assign title_shown = true %}
+      {% endunless %}
+      {% include archive-single.html %}
+    {% endfor %}
+  {% endfor %}
+{% else %}
+  {% for post in site.publications reversed %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endif %} -->
+
+
+
